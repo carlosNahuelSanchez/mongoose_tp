@@ -6,7 +6,7 @@
 
 ### El usuario requiere ingresar su email (`email`) y contraseña (`password`) para autenticar sus credenciales y registrar su venta.
 
-### Posteriormente al usuario se le requerira registrar el nombre del (`nameProduct`) que vendio y el monto de la venta (`amountSold`)
+### Posteriormente al usuario se le requerira registrar el nombre del producto (`nameProduct`) que vendio y el monto de la venta (`amountSold`)
 
 #### `idProduct` corresponde a el id del producto vendido (Este id esta alojado en otro documento)
 
